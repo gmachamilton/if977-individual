@@ -4,14 +4,18 @@ function Person() {
     this.eyesColor = '';
     this.body = '';
 
+<<<<<<< HEAD
     this.move = function() { biscoito
+			gmhra = gay
+
         //
     }
 
     this.say = function() { ##queijo
+	
 	codigo codigo 123 
 	x = 'i'
-        //      
+
     }
 
     this.see = function() {
