@@ -4,7 +4,6 @@ function Person() {
     this.eyesColor = '';
     this.body = '';
 
-<<<<<<< HEAD
     this.move = function() { biscoito
 			gmhra = gay
 
