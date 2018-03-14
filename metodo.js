@@ -5,10 +5,12 @@ function Person() {
     this.body = '';
 
     this.move = function() {
+		gmhra = gay
         //
     }
 
     this.say = function() {
+		## oi
         //      
     }
 
