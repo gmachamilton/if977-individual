@@ -4,11 +4,13 @@ function Person() {
     this.eyesColor = '';
     this.body = '';
 
-    this.move = function() {
+    this.move = function() { biscoito
         //
     }
 
-    this.say = function() {
+    this.say = function() { ##queijo
+	codigo codigo 123 
+	x = 'i'
         //      
     }
 
